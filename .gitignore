@@ -1,0 +1,9 @@
+/1.三维模型/
+/2.PCB原理图/
+/6.流程图.pdf
+/7.海报.pdf
+
+3.stm32代码/**/OBJ/
+*.uvoptx
+*.uvguix.*
+*.Bak
